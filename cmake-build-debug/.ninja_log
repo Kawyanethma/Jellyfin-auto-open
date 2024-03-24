@@ -1,0 +1,9 @@
+# ninja log v5
+3	987	7329748699518228	CMakeFiles/Jellyfin_Opener.dir/main.cpp.obj	9aa935a2f7b1f878
+988	1281	7329748702347317	Jellyfin_Opener.exe	3fa357a1525c1bf6
+4	806	7329749518977814	build.ninja	30cd4f79b39f97d5
+0	15	0	clean	a84090cb4edd80de
+3	1454	7329749623903589	CMakeFiles/Jellyfin_Opener.dir/main.cpp.obj	9aa935a2f7b1f878
+1454	1774	7329749627040621	Jellyfin_Opener.exe	3fa357a1525c1bf6
+3	1013	7329750057789115	CMakeFiles/Jellyfin_Opener.dir/main.cpp.obj	9aa935a2f7b1f878
+1013	1315	7329750060657233	Jellyfin_Opener.exe	3fa357a1525c1bf6

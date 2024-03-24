@@ -1,0 +1,3 @@
+C:/Users/Kawya/CLionProjects/Jellyfin Opener/cmake-build-debug/CMakeFiles/Jellyfin_Opener.dir
+C:/Users/Kawya/CLionProjects/Jellyfin Opener/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kawya/CLionProjects/Jellyfin Opener/cmake-build-debug/CMakeFiles/rebuild_cache.dir
